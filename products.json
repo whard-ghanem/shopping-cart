@@ -34,5 +34,17 @@
         "name":"DIOR SAUVAGE EDP 100ML",
         "price":500,
         "image":"images/sauvage.webp" 
+    },
+    {
+        "id":7,
+        "name":"VALENTINO UOMO EDP 100ML",
+        "price":650,
+        "image":"images/valentino-uomo.webp" 
+    },
+    {
+        "id":8,
+        "name":"PARFUM DE MARLEY LAYTON EDP 100ML",
+        "price":1200,
+        "image":"images/layton.webp" 
     }
 ]
